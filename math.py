@@ -1,5 +1,5 @@
 #add functiondef add(x,y):
-    pass#subtract function
+    return x + y#subtract function
 def subtract(x,y):
     pass #multiply function
 def multiply(x,y):
